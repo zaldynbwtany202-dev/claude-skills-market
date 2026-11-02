@@ -1,6 +1,6 @@
 {
  "name": "claude-skills-market",
- "description": "All migrated capabilities - ZCode/OpenCode/Qoder/GitHub consolidated",
+ "description": "All migrated capabilities",
  "owner": {
   "name": "claude-skills-market"
  },
@@ -9,11 +9,6 @@
    "name": "pack-1",
    "source": "./packs/pack-1",
    "description": "Migrated skills pack (50 skills)"
-  },
-  {
-   "name": "pack-2",
-   "source": "./packs/pack-2",
-   "description": "Migrated skills pack (0 skills)"
   },
   {
    "name": "pack-3",
