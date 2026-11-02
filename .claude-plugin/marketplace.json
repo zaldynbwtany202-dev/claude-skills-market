@@ -1,0 +1,14 @@
+{
+ "name": "claude-skills-market",
+ "description": "All migrated capabilities (2113 skills staged) - ZCode/OpenCode/Qoder/GitHub consolidated",
+ "owner": {
+  "name": "claude-skills-market"
+ },
+ "plugins": [
+  {
+   "name": "skills-pack-1",
+   "source": "./packs/pack-1",
+   "description": "Migrated skills pack 1 (50 skills), more packs coming"
+  }
+ ]
+}
