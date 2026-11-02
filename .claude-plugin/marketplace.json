@@ -1,14 +1,89 @@
 {
  "name": "claude-skills-market",
- "description": "All migrated capabilities (2113 skills staged) - ZCode/OpenCode/Qoder/GitHub consolidated",
+ "description": "All migrated capabilities - ZCode/OpenCode/Qoder/GitHub consolidated",
  "owner": {
   "name": "claude-skills-market"
  },
  "plugins": [
   {
-   "name": "skills-pack-1",
+   "name": "pack-1",
    "source": "./packs/pack-1",
-   "description": "Migrated skills pack 1 (50 skills), more packs coming"
+   "description": "Migrated skills pack (50 skills)"
+  },
+  {
+   "name": "pack-2",
+   "source": "./packs/pack-2",
+   "description": "Migrated skills pack (0 skills)"
+  },
+  {
+   "name": "pack-3",
+   "source": "./packs/pack-3",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-4",
+   "source": "./packs/pack-4",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-5",
+   "source": "./packs/pack-5",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-6",
+   "source": "./packs/pack-6",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-7",
+   "source": "./packs/pack-7",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-8",
+   "source": "./packs/pack-8",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-9",
+   "source": "./packs/pack-9",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-10",
+   "source": "./packs/pack-10",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-11",
+   "source": "./packs/pack-11",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-12",
+   "source": "./packs/pack-12",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-13",
+   "source": "./packs/pack-13",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-14",
+   "source": "./packs/pack-14",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-15",
+   "source": "./packs/pack-15",
+   "description": "Migrated skills pack (150 skills)"
+  },
+  {
+   "name": "pack-16",
+   "source": "./packs/pack-16",
+   "description": "Migrated skills pack (113 skills)"
   }
  ]
 }

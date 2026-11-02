@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "owner": "asgeirtj",
+  "repo": "system_prompts_leaks",
+  "description": "Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Google Gemini, xAI Grok and more.",
+  "license": "CC0",
+  "language": "Markdown",
+  "installed": "2026-10-28"
+}

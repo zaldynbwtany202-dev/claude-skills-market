@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "license": "MIT",
+  "language": "TypeScript",
+  "installed": "2026-10-28"
+}
